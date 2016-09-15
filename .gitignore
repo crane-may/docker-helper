@@ -1,0 +1,10 @@
+*.pyc
+.DS_Store
+*.o
+*.so
+*.swp
+*.swo
+.DS_Store
+*/.DS_Store
+*.swp
+opt/

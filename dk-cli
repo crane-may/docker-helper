@@ -1,0 +1,2 @@
+#!/bin/sh
+docker run --net=host -v /Users/crane/Documents/docker-helper/opt:/opt -v /Users/crane/share:/root/share -i -t vm /bin/zsh
